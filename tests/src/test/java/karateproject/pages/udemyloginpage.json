@@ -1,0 +1,7 @@
+{
+    "udemyLoginPage": {
+        "loginButton": "//span[text()='Log in']",
+        "signupButton": "//span[text()='Sign up']",
+        "emailfield": "//input[@type='email']"
+    }
+}
